@@ -1,6 +1,6 @@
 # Animation lib display
 
-This project implements display to screen capabilities to my [animation library]()
+This project implements display to screen capabilities to my [animation library](https://github.com/laurentiuNiculae/animation-library)
 
 ## External Dependecies:
 
