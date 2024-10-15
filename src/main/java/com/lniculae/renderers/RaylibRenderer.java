@@ -1,7 +1,7 @@
 package com.lniculae.renderers;
 
 import com.lniculae.Animation.Task;
-import com.lniculae.Animation.Context.RaylibAnimationContext;
+import com.lniculae.context.RaylibAnimationContext;
 import com.lniculae.AnimationOutput.AnimationFileRenderer;
 import com.lniculae.AnimationOutput.AnimationRenderer;
 import com.lniculae.Encoding.FFmpegEncoder;

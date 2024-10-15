@@ -5,7 +5,7 @@ import java.util.HashMap;
 import com.lniculae.Animation.*;
 import com.lniculae.Animation.Context.AnimationContext;
 import com.lniculae.AnimationOutput.AnimationRenderer;
-import com.lniculae.AnimationOutput.RaylibRenderer;
+import com.lniculae.renderers.RaylibRenderer;
 import com.lniculae.Graph.Graph;
 import com.raylib.java.raymath.Raymath;
 

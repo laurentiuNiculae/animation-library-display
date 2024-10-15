@@ -7,7 +7,7 @@ import com.raylib.java.core.input.Keyboard;
 import com.raylib.java.raymath.Raymath;
 
 import com.lniculae.Animation.*;
-import com.lniculae.Animation.Context.RaylibAnimationContext;
+import com.lniculae.context.RaylibAnimationContext;
 import com.lniculae.Graph.Graph;
 
 public class Example1 {

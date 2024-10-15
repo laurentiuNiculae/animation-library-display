@@ -1,7 +1,7 @@
 package com.lniculae.renderers;
 
 import com.lniculae.Animation.Task;
-import com.lniculae.Animation.Context.ProcessingAnimationContext;
+import com.lniculae.context.ProcessingAnimationContext;
 import com.lniculae.AnimationOutput.AnimationRenderer;
 import com.lniculae.Helper.Result;
 import com.lniculae.Helper.Result.Empty;
